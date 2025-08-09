@@ -24,7 +24,7 @@ photo-upload-app
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/ado1d/photo-upload-local-server.git
    cd photo-upload-app
    ```
 
